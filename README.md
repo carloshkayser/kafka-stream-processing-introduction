@@ -1,2 +1,3 @@
-# kafka-stream-processing-introduction
-This repository contains a example of utilization of Apache Kafka stream processing.
+# Apache Kafka Stream Processing Introduction
+
+This repository contains an example of using Apache Kafka stream processing
